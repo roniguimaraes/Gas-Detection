@@ -1,0 +1,8 @@
+Flask==2.3.3
+flask-cors==4.0.0
+flask-socketio==5.3.6
+ultralytics>=8.3
+opencv-python==4.8.1.78
+pynput==1.7.6
+numpy<2
+websocket-client
